@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+It is a project that uses several tools that in my opinion make react great, among them the use of components, hooks, use context.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+all with a pokemon theme in which the user when entering the app will be able to see a list in the form of a primer of several pokemons, there he will be able to see in addition to their names, the type, their number in the pokedex, and a front illustrative image .
 
-## Available Scripts
+The use of components within components and then passing them to the main app file and the fact that one of them contains a functionality where you can search for the pokemon of your choice just by typing its name and clicking search, make it one of my favorites. favorite projects
 
-In the project directory, you can run:
+Perhaps the most striking in my opinion that in addition to all this mentioned above, this app also makes calls to the pokemon api from which it extracts all this data live and through react js skills we can mold and illustrate them in this simple but beautiful application.
 
-### `npm start`
+Do not forget also that you can give a like to the pokemon that you like and that adding more to the list of tools used in the project we must add the use of local storage so your hearts to a specific pokemon will not be deleted even if you leave the page or refresh it.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I think in the future to add more structure and functionality such as the fact that you can select any pokemon and through an entry to a segment of the page obtain more information about the pokemon in a larger primer format and with information such as the amount of attack, defense , speed among others.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A simple project but loved by me that illustrates in an almost deep way the knowledge of react js.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+with nothing more than adding the link to the website: https://pokex-2022-560c1.web.app/

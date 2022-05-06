@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "pokedex-2022-a0c58",
+    "pokedex-2022": "pokedex-2022-a0c58",
+    "pokex-2022": "pokex-2022-560c1"
+  },
+  "targets": {}
+}
